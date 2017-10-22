@@ -25,7 +25,6 @@
     {
       "name": "cbh",
       "path": "data/cbh.csv",
-      "url": "https://raw.githubusercontent.com/datasets-br/cbh-codes/master/data/cbh.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "title": "...",
@@ -50,7 +49,7 @@
           {
             "name": "norma-criacao",
             "description": "creation act",
-            "type": "string",
+            "type": "string"
           }
         ]
       }
