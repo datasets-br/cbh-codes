@@ -1,0 +1,60 @@
+{
+  "name": "cbh-codes",
+  "title": "Comitês das Bacias Hidrográficas do Brasil",
+  "description": "....",
+  "repository": {
+    "type": "git",
+    "url": "http://datasets.ok.org.br/cbh-codes"
+  },
+  "sources": [{
+      "title": "portal dos CBHs...",
+      "name": "CBH",
+      "web": "http://www.cbh.gov.br/"
+    }
+  ],
+  "keywords": [
+    "geodata",
+    "drainage basin",
+    "brazil"
+  ],
+  "license": {
+    "type": "ODC-PDDL",
+    "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+  },
+  "resources": [
+    {
+      "name": "cbh",
+      "path": "data/cbh.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/cbh-codes/master/data/cbh.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "...",
+      "lang": "en",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "description": "sigla da UF quando cabivel",
+            "type": "string"
+          },
+          {
+            "name": "code",
+            "description": "CBH code",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "description": "The CBH name",
+            "type": "string"
+          },
+          {
+            "name": "norma-criacao",
+            "description": "creation act",
+            "type": "string",
+          }
+        ]
+      }
+    }
+  ],
+  "homepage": "https://github.com/datasets-br/cbh-codes"
+}
