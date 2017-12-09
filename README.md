@@ -2,7 +2,7 @@
 
 Comitês das Bacias Hidrográficas (CBHs) do Brasil, códigos e legislação de criação
 
-.. EM CONSTRUCAO ...
+.. EM CONSTRUCAO ... Ver planilha aberta colaborativa [AQUI!](https://docs.google.com/spreadsheets/d/1VqObVuwNMn15vVn5DJ_pJqalX2nnmjHJVPKDUNDcArk/)
 
 Instalação com sql-unifier: acrescentar `"datasets-br/city-codes":null`.
 
