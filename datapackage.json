@@ -37,18 +37,45 @@
             "type": "string"
           },
           {
-            "name": "code",
+            "name": "codigo",
             "description": "CBH code",
             "type": "string"
           },
           {
-            "name": "name",
+            "name": "nome",
             "description": "The CBH name",
             "type": "string"
           },
           {
             "name": "norma-criacao",
             "description": "creation act",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cbh-forum",
+      "path": "data/cbh-forum.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Planilha do forum dos CBHs",
+      "lang": "en",
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "description": "CBH code",
+            "type": "string"
+          },
+          {
+            "name": "sigla",
+            "description": "Acrônimo do nome",
+            "type": "string"
+          },
+          {
+            "name": "nome_completo",
+            "description": "The CBH name",
             "type": "string"
           }
         ]

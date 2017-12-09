@@ -1,0 +1,219 @@
+codigo,jurisdicao,abreviacao,nome_completo,nome_alternativo,norma_criacao
+BR-01,br,CBHGBR,CBH do Rio Grande,,
+BR-02,br,CBHPS-CEIVAP,CBH do Rio Paraíba do Sul - Ceivap,,
+BR-03,br,CBHPB,CBH do Rio Paranaíba,,
+BR-04,br,CBH-PCJ,"CBH dos Rios Piracicaba, Capivari e Jundiaí - PCJ FEDERAL",,
+BR-05,br,CBHPA,CBH do Rio Piranhas-Açu,,
+BR-06,br,CBHSF,CBH do Rio São Francisco,,
+BR-07,br,CBHVG,CBH do Rio Verde Grande,,
+BR-08,br,CBH DOCE,CBH do Rio Doce,,
+BR-09,br,CBHPP,CBH do Rio Paranapanema,,
+AL-01,br;al,CBHCO,CBH do Rio Coruripe,,Dec. 1.381
+AL-02,br;al,CBHCELMM,CBH do Complexo Estuarino Lagunar Mundaú Manguaba,CBH do Rio Prataji,Res. 04/2004
+AL-03,br;al,CBH-PI,CBH Piauí,CBH do Rio Piauí,Res. 05/2005
+AL-04,br;al,CBHPG,Comitê da Região Hidrográfica do Pratagy,CBH do Complexo Estuarino Lagunar Mundaú-Manguaba,Res. 09/2006
+AL-05,br;al,CBHSF-AL,CBH do Rio São Francisco,CBH do Rio São Miguel,Res. 08/2006
+AL-06,br;al,CBHSM,CBH São Miguel,,
+AM-01,br;am,CBHP,CBH do Rio Puraquequara,CBH do Rio Tarumã,Dec. 29.249
+AM-02,br;am,CBH TAPAZONAS,CBH Tapazonas Tapajós+Amazonas,,
+AM-03,br;am,CBH TARUMÃ-AÇU,CBH do Rio Tarumã-Açu,,
+BA-01,br;ba,CBHRC,CBH do Rio das Contas,CBH do Leste,Dec. 9.935/06
+BA-02,br;ba,CBHCR,CBH do Rio Corrente,CBH do Rio Itapicuru,Dec. 9.937/06
+BA-03,br;ba,CBHFBSA,"CBH dos Rios FRADE, BURANHÉM E SANTO ANTÔNIO",CBH do Recôncavo Norte,Dec. 9.936 alterado pelo Dec. 11.204/08
+BA-04,br;ba,CBHG,CBH do Rio Grande,CBH do Rio Paraguaçu,Dec. 9.938
+BA-05,br;ba,CBHITA,CBH do Itapicuru,CBH dos Rios Verde - Jacaré,Dec. 9.939
+BA-06,br;ba,CBHL,CBH do Leste,CBH do Rio Salitre,Dec. 10.197
+BA-07,br;ba,CBHPG,CBH do Rio Paraguaçú,CBH do Rio Corrente,Dec. 11.244
+BA-08,br;ba,CBHPSO,CBH dos Rios Paramirim e Santo Onofre,CBH do Rio de Contas,Dec. 11.245
+BA-09,br;ba,CBHPITAJU,"CBH dos Rios Peruípe, Itanhém e Jucuruçu",CBH do Rio Grande,Dec. 11.246
+BA-10,br;ba,CBHRS,CBH do Recôncavo Sul,CBH dos Rios Baianos do Entorno do Lago de Sobradinho,Dec. 11.247
+BA-11,br;ba,CBHRNI,CBH do Recôncavo Norte e Inhambupe,"CBH dos Rios Peruípe, Itanhém e Jucuruçu",Dec. 14.243
+BA-12,br;ba,CBHSL,CBH dos Rios Salitre,"CBH dos Rios dos Frades, Buranhém e Santo Antônio",Dec. 14.244
+BA-13,br;ba,CBHLSB,CBH do Entorno do Lago do Sobradinho,CBH dos Rios Paramirim e Santo Onofre,Dec. 14.245
+BA-14,br;ba,CBHVJ,CBH dos Rios Verde e Jacaré,CBH do Recôncavo Sul,Dec. 15.730
+BA-15,br;ba,CBHCNI,CBH do Centro Norte e Inhambupe,,
+CE-01,br;ce,CBHAC,CBH do Acaraú,CBH do Rio Alto Jaguaribe,Dec. 26.603
+CE-02,br;ce,CBHAJ,CBH do Alto Jaguaribe,CBH do Rio Médio Jaguaribe,Dec. 25.391
+CE-03,br;ce,CBHBJ,CBH do Baixo Jaguaribe,CBH do Rio Baixo Jaguaribe,Dec. 25.391
+CE-04,br;ce,CBHBN,CBH do Banabuiú,CBH do Rio Banabuiú,Dec. 26.435
+CE-05,br;ce,CBHCO,CBH do Coreaú,CBH do Rio Curu,Lei 11.996
+CE-06,br;ce,CBHCR,CBH do Curu,CBH do Rio Salgado,Dec. 26.603
+CE-07,br;ce,CBHSIB,CBH da Serra da Ibiapaba,CBH da Região Metropolitana de Fortaleza,Dec. 26.902
+CE-08,br;ce,CBHLIT,CBH do Litoral,CBH do Rio Aracaú,Dec. 27.647
+CE-09,br;ce,CBHMJ,CBH do Médio Jaguaribe,CBH do Rio Coreaú,Dec. 28.233
+CE-10,br;ce,CBHMT,CBH das Metropolitanas,CBH do Litoral,Dec. 28.233
+CE-11,br;ce,CBHSG,CBH do Salgado,CBH Sertões de Crateús,Dec. 31.061
+DF-01,br;df,CBHRP,CBH do Rio Paranoá,,
+DF-02,br;df,CBH/AP,CBH dos Afluentes do Rio Preto,,
+DF-03,br;df,CBH/AM,CBH dos Afluentes do Rio Maranhão,,
+ES-01,br;es,CBHLCN,CBH do Litoral Centro Norte,CBH das Bacias Hidrográficas Costeiras do Litoral Centro-Norte,Dec. 908-R
+ES-02,br;es,CBHBV,CBH do Rio Benevente,CBH do Rio Itaúnas,Dec. 909-R
+ES-03,br;es,CBHGUA,CBH do Rio Guandu,CBH do Rio Benevente,Dec. 1.206-R
+ES-04,br;es,CBHITA,CBH do Rio Itapemirim,CBH do Rio Novo,Dec. 1.350-R
+ES-05,br;es,CBHITA,CBH do Rio Itaúnas,CBH do Rio Santa Maria do Doce,Dec. 883-S
+ES-06,br;es,CBHRJC,CBH do Rio Jucu,CBH do Rio Itapemirim,Dec. 1.703-R
+ES-07,br;es,CBHNV,CBH do Rio Novo,CBH do Rio Guandu,Dec. 1.901-R
+ES-08,br;es,CBHRSMV,CBH do Rio Santa Maria da Vitória,CBH Jucu,Dec. 1.935-R
+ES-09,br;es,CBHRSMD,CBH do Rio Santa Maria do Doce,CBH Santa Maria da Vitória,Dec. 1.934-R
+ES-10,br;es,CBHRSJ,CBH SANTA JOANA,CBH Pontões e Lagoas do Rio Doce - antigo Rio São José,Dec. 3793_R/2015 altera 2.035-R
+ES-11,br;es,CBHRSM,CBH do Rio São Mateus,,Dec. 2.619-R
+ES-12,br;es,CBHITAB,CBH Itabapoana,CBH Barra Seca e Foz do Rio Doce,Dec. 3792_R
+ES-13,br;es,CBH-BSFRD,Comitê da Bacia do Barra Seca e Foz do Rio Doce,,
+ES-14,br;es,CBHPLRD,CBH Pontões e Lagoas do Rio Doce,,
+GO-01,br;go,CBHBOIS,CBH do Rio dos Bois - CBH Bois,,
+GO-02,br;go,CBH CORUMBÁ VERÍSSIMO,"CBH dos Rios Corumbá, Veríssimo e porção goiana do Rio São Marcos",,
+GO-03,br;go,CBHRMP,CBH do Rio Meia Ponte,,
+GO-04,br;go,CBHAGBP,CBH dos Afluentes Goianos do Baixo Paranaíba,,
+GO-05,br;go,CBH Vermelho,CBH do Rio Vermelho,,
+MA-01,br;ma,CBHRM,CBH do Rio Mearim,CBH do Rio Munim,Lei 9.956
+MA-02,br;ma,CBHMUNIM,CBH do Rio Munim,CBH do Rio Mearim,Lei 9.957
+MG-01,br;mg,CBH ARAGUARI,CBH do Rio Araguari,CBH do Rio das Velhas,Dec. 39.692
+MG-02,br;mg,CBHERF,CBH do Entorno do Reservatório de Furnas,CBH do Rio Paraopeba,Dec. 40.398
+MG-03,br;mg,CBHVRG,CBH Vertentes do Rio Grande,CBH do Rio Piracicaba,Dec. 40.929
+MG-04,br;mg,GD-8,CBH dos Afluentes Mineiros do Baixo Rio Grande,CBH do Rio Santo Antônio,Dec. 42.595
+MG-05,br;mg,CBHAMMRG,CBH Afluentes Mineiros do Médio Rio Grande,CBH do Rio Piranga,Dec. 43.101
+MG-06,br;mg,CBH FS6,"CBH Jequitaí, Pacuí e Trecho São Francisco",CBH do Rio Sapucaí,Dec. 39.911
+MG-07,br;mg,JQ1,CBH Afluentes Mineiros do Alto Jequitinhonha,CBH do Rio Araçuaí,Dec. 40.931
+MG-08,br;mg,CBHAMMBJ,CBH dos Afluentes Mineiros do Médio e Baixo Jequitinhonha,CBH dos Afluentes Mineiros do Baixo Rio Grande,Dec. 42.960
+MG-09,br;mg,CBHARM,Águas do Rio Manhuaçu,CBH dos Afluentes Mineiros do Médio Rio Grande,Dec. 42.594
+MG-10,br;mg,CBH GD6,CBH dos Rios Mogi-Guaçu/Pardo GD6,CBH dos Rios Jaguari/Piracicaba (SP),Dec. 44.433
+MG-11,br;mg,CBHSF09,CBH do Rio Mosquito e demais afluentes mineiros do Rio Pardo,CBH do Rio Pará,Dec. 39.913
+MG-12,br;mg,CBHMC,CBH do Rio Mucuri,CBH do Rio Mosquito,Dec. 39.736
+MG-13,br;mg,CBHPA,CBH do Rio Pará,CBH Mineira do Rio Paracatu,Dec. 40.014
+MG-14,br;mg,CBHMRP,CBH Mineira do Rio Paracatu,CBH do Rio Verde,Dec. 39.910
+MG-15,br;mg,CBHPS1,CBH Preto e Paraibuna,CBH do Entorno do Lago de Furnas,Dec. 42.596
+MG-16,br;mg,CBHAMBP,CBH dos Afluentes Mineiros do Baixo Paranaíba,CBH do Rio Caratinga,Dec. 40.591
+MG-17,br;mg,CBHAMAP,CBH dos Afluentes Mineiros do Alto Paranaíba,CBH dos Afluentes do Alto São Francisco,Dec. 43.711
+MG-18,br;mg,CBHPRPB,CBH do Rio Paraopeba,CBH dos Rios Jequitaí e Pacuí,Dec. 43.720
+MG-19,br;mg,CBHRPCB,CBH do Rio Piracicaba,CBH dos Afluentes Mineiros do Baixo Paranaíba,Dec. 43.797
+MG-20,br;mg,CBHPJ,CBH dos Piracicaba e Jaguari,CBH do Rio Suaçuí,Dec. 44.200
+MG-21,br;mg,CBHRPG,CBH do Rio Piranga,CBH das Águas do Rio Manhuaçu,Dec. 43.959
+MG-22,br;mg,CBHCOMPÉ,CBH dos Afluentes Mineiros dos Rios Pomba e Muriaé,CBH do Entorno da Represa de Três Marias,Dec. 43.798
+MG-23,br;mg,CBHRSA,CBH do Rio Santo Antonio,CBH do Rio Dourados,Dec. 43.958
+MG-24,br;mg,CBHSF9,CBH dos Afluentes Mineiros do Médio São Francisco,CBH Mineiro do Rio Urucuia,Dec. 44.201
+MG-25,br;mg,CBHAASF,CBH dos Afluentes do Alto São Francisco,CBH dos Afluentes Mineiros dos Rios Pomba e Muriaé,Dec. 44.290
+MG-26,br;mg,CBHSM1,CBH do Rio São Mateus,CBH dos Afluentes Mineiros dos Rios Preto e Paraibuna,Dec. 44.199
+MG-27,br;mg,CBHRSP,CBH do Rio Sapucaí,CBH dos Afluentes Mineiros dos Rios Mogi-Guaçu e Pardo,Dec. 40.930
+MG-28,br;mg,CBHSU,CBH do Rio Suaçui,CBH do Rio Araguari,Dec. 39.912
+MG-29,br;mg,CBHTM,CBH do Entorno da Represa de Três Marias,CBH do Alto Rio Grande,Dec. 44.432
+MG-30,br;mg,CBHRV,CBH do Rio das Velhas,CBH Vertentes do Rio Grande,Dec. 44.9690
+MG-31,br;mg,CBHRV,CBH do Rio Verde,CBH do Médio e Baixo Jequitinhonha,Dec. 44.955
+MG-32,br;mg,CBHAMRVG,CBH dos Afluentes Mineiros do Rio Verde Grande,CBH dos Afluentes Mineiros do Médio São Francisco,Dec. 44.956
+MG-33,br;mg,CBHSF8,CBH do Rio Urucuia - SF8,CBH do Rio Mucuri,Dec. 44.865
+MG-34,br;mg,CBH-Caratinga,Comitê da Bacia Hidrográfica do Rio Caratinga,CBH dos Afluentes Mineiros do Alto Jequitinhonha,Dec. 45.183
+MS-01,br;ms,CBHRIV,CBH do Rio Ivinhema,,
+MS-02,br;ms,CBHRM,CBH do Rio Miranda,,
+MS-03,br;ms,CBH DOS RIOS SANTANA E APORÉ,CBH Santana e Aporé,,
+MT-01,br;mt,CBH COVAPÉ,Comitê de Bacia Hidrográfica dos R. Várzea Grande e Sapé,,
+MT-02,br;mt,CBH SEPOTUBA,CBH do Rio Sepotuba,,
+MT-03,br;mt,CBH-BAIXO TELES PIRES ME,CBH dos Afluentes da Margem Esquerda do Baixo Teles Pires,,
+MT-04,br;mt,CBH SÃO LOURENÇO,CBH do Rio São Lourenço,,
+MT-05,br;mt,CBH-ALTO TELES PIRES MD,CBH do Alto Teles Pires – Margem Direita,,
+MT-06,br;mt,CBH - CABAÇAL,CBH do Cabaçal,,
+MT-07,br;mt,CBH-CUIABÁ ME,"CBH dos Afluentes da Margens Esquerda do Rio Cuiabá,",,
+MT-08,br;mt,CBH MÉDIO TELES PIRES,CBH do Médio Teles Pires,,
+MT-09,br;mt,CBH - JAURU,CBH do Jauru,,
+MT-10,br;mt,CBH ALTO ARAGUAIA,CBH dos Afluentes do Alto Araguaia,,
+PB-01,br;pb,CBHLN,CBH do Litoral Norte,CBH do Rio Paraíba,Dec. 27.560
+PB-02,br;pb,CBHLSB,CBH do Litoral Sul,CBH Litoral Sul,Dec. 27.562
+PB-03,br;pb,CBHRPB,CBH do Rio Paraíba,CBH Litoral Norte,Dec. 27.561
+PE-01,br;pe,CBHCP,CBH do Capibaribe,CBH Metropolitano Sul,Res. 01
+PE-02,br;pe,CBHIPO,CBH do Rio Ipojuca,CBH do Rio Pajeú,Res. 03
+PE-03,br;pe,CBHRJP,CBH do Rio Jaboatão e Pirapama,CBH do Rio Una,Res. 05
+PE-04,br;pe,CBHNORTE/GL1,COMITÊ METROPOLITANO NORTE (GL-1),CBH do Rio Goiana,Res. 02
+PE-05,br;pe,CBHSUL/GL2,COMITÊ METROPOLITANO SUL (GL-2),CBH do Rio Ipojuca,Res. 02
+PE-06,br;pe,CBHRPJ,CBH do Rio Pajeú,CBH do Rio Capibaribe,Res. 07
+PE-07,br;pe,CBHGO,CBH Goiana,,
+PE-08,br;pe,CBHUNA,CBH Una,,
+PI-01,br;pi,CBHRCP,CBH dos Rios Canindé e Piauí,,Dec. 13.585
+PR-01,br;pr,CBHCOALIAR,CBH do Alto Iguaçu e Afluentes do Alto Ribeira,,Dec. 5.878
+PR-02,br;pr,CBHRJ,CBH do Rio Jordão,CBH do Rio Tibagi,Dec. 5.361
+PR-03,br;pr,CBHPR3,CBH do Paraná III,CBH do Rio Jordão,Dec. 5.790
+PR-04,br;pr,CBHP3E4,"CBH dos Rio Pirapó, Rio Paranapanema 3 e Paranapanema 4",CBH Paraná III,Dec. 2.924
+PR-05,br;pr,CBHTIG,CBH Rio Tibagi,"CBH dos Rios Pirapó, Paranapanema 3 e Paranapanema 4",Dec. 2.245
+PR-06,br;pr,CBHCIP,"CBH dos Rios Cinzas, Itararé, Paranapanema 1 e 2",CBH Norte Pioneiro,Dec. 5.427
+RJ-01,br;rj,CBH - Lagos São João,"CBH das Lagoas de Araruama, Saquarema e dos rios São João e Una",CBH do Rio Guandu,Dec. 31.178
+RJ-02,br;rj,CBH - R2R,CBH do Rio Dois Rios,CBH Lagos São João,Dec. 36.733
+RJ-03,br;rj,CBH - BG,CBH da Região Hidrográfica da Baia de Guanabara e dos Sistemas Lagunares de Maricá e Jacarepaguá,CBH dos Rios Macaé e das Ostras,Dec. 34.243
+RJ-04,br;rj,CBH - Guandu,"CBH dos Rios Guandu, Da Guarda e Guandu Mirim",CBH do Rio Piabanha,Dec. 38.235
+RJ-05,br;rj,CBH - BIG,CBH da Região Hidrográfica da Baía de Ilha Grande,CBH da Baia de Guanabara,Dec. 38.260
+RJ-06,br;rj,CBH - Macaé Ostras,CBH dos Rios Macaé e das Ostras,CBH Rio Dois Rios,Dec. 41.472
+RJ-07,br;rj,CBH - MPS,CBH do Médio Paraíba do Sul,CBH Médio Paraíba do Sul,Dec. 41.475
+RJ-08,br;rj,CBH BPSI,CBH do Baixo Paraíba do Sul e Itabapoana,CBH Baixo Paraíba do Sul e Itabapoana,Dec. 41.720
+RJ-09,br;rj,CBH - Piabanha,CBH do Rio Piabanha e das Sub-Bacias Hidrográficas dos Rios Paquequer e Preto (Comitê Piabanha),CBH da Baía da Ilha Grande,Dec. 43.226
+RN-01,br;rn,CBH AM,CBH do Rio Apodi-Mossoró,CBH do Rio Pitimbu,Dec. 17.789
+RN-02,br;rn,CBHRCM,CBH do Rio Ceará-Mirim,,Dec. 21.779
+RN-03,br;rn,CBHRPT,CBH do Rio Pitimbu,CBH do Rio Apodi-Mossoró,Dec. 21.881
+RS-01,br;rs,CBHAI,CBH Apuaê-Inhandava,CBH dos Rios Turvo-Santa Rosa-Santo Cristo,Dec. 41.325
+RS-02,br;rs,CBHRBI,CBH dos Rios Butuí-Icamaquã,CBH do Rio Ijuí,Dec. 40.916
+RS-03,br;rs,CBHCAI,CBH do Rio Caí,CBH dos Rios Taquari e Antas,Dec. 38.558
+RS-04,br;rs,CBHRCAM,CBH do Rio Camaquã,CBH do Rio Ibicuí,Dec. 40.226
+RS-05,br;rs,CBH COAJU,CBH COAJU,CBH dos Rios Vacacaí e Vacacaí-Mirim,Dec. 39.639
+RS-06,br;rs,CBHRGHY,CBH do Rio Gravatahy,CBH do Rio Baixo Jacuí,Dec. 40.225
+RS-07,br;rs,CBHLGUA,CBH do Lago Guaíba,CBH do Rio Alto Jacuí,Dec. 40.822
+RS-08,br;rs,CBHRIV,CBH do Rio Ibicuí,CBH do Rio Pardo,Dec. 39.116
+RS-09,br;rs,CBHRIJ,CBH do Rio Ijuí,CBH do Rio Caí,Dec. 38.903
+RS-10,br;rs,CBHAJC,CBH do Alto Jacuí,CBH do Rio Tramandaí,Dec. 39.637
+RS-11,br;rs,CBHBJC,CBH do Baixo Jacuí,CBH de Santa Maria,Dec. 35.103
+RS-12,br;rs,CBHLM,CBH Litoral Médio,CBH do Rio dos Sinos,Dec. 32.774
+RS-13,br;rs,CBHMM,CBH Mampituba,CBH do Lago Guaíba,Dec. 38.989
+RS-14,br;rs,CBHLMCSG,CBH da Lagoa Mirim e do Canal São Gonçalo,CBH do Rio Apuaê-Inhandava,Dec. 41.490
+RS-15,br;rs,CBH Negro,CBH Negro,CBH do Rio Gravataí,Dec. 33.125
+RS-16,br;rs,CBHQ,CBH Quarai,CBH do Rio Camaquã,Dec. 39.638
+RS-17,br;rs,CBHRP,CBH do Rio Pardo,CBH de Passo Fundo,Dec. 42.961
+RS-18,br;rs,CBHRPF,CBH do Rio Passo Fundo,CBH da Lagoa Mirim e Canal São Gonçalo,Dec. 44.327
+RS-19,br;rs,CBHRPI,CBH do Rio Piratinim,CBH do Butuí-Icamaquã,Dec. 44.401
+RS-20,br;rs,CBHRSM,CBH do Rio Santa Maria,CBH do Piratinim,Dec. 44.270
+RS-21,br;rs,CBHLSB,CBH do Lago de Sobradinho,CBH do Várzea,Dec. 43.488
+RS-22,br;rs,CBHSINOS,CBH do Rio dos Sinos – Comitesinos,CBH do Litoral Médio,Dec. 45.460
+RS-23,br;rs,CBHTQ,CBH Taquari-Antas,CBH do Rio Negro,Dec. 45.531
+RS-24,br;rs,CBHRTRA,CBH do Rio Tramandaí,CBH do Rio Quaraí,Dec. 45.606
+RS-25,br;rs,CBHTUBLAG,CBH do Rio Tubarão e Complexo Lagunar,CBH do Rio Mampituba,Dec. 49.834
+RS-26,br;rs,CBH IJUI,"CBH dos Rios Turvo, Santa Rosa, Santo Cristo",,
+RS-27,br;rs,CBHRVACMR,CBH dos Rios Vacacaí e Vacacaí-Mirim,,
+RS-28,br;rs,CBH VARZEA,CBH do Rio da Várzea,,
+SC-01,br;sc,CBH ARARANGUÁ,CBH do Rio Araranguá,CBH do Rio Itajaí,Dec. 2.109
+SC-02,br;sc,CBH CAMBORIÚ,CBH do Rio Camboriú,CBH do Rio Itapocu,Dec. 2.919
+SC-03,br;sc,CBH CANOAS,CBH do Rio Canoas,CBH do Rio Cubatão do Sul,Dec. 3.943
+SC-04,br;sc,CBH CANOINHAS,CBH do Rio Canoinhas,CBH do Rio Araranguá,Dec. 3.620
+SC-05,br;sc,CBH CHAPECÓ E IRANI,CBH do Rio Chapecó Irani,CBH do Rio Timbó,Dec. 4.295
+SC-06,br;sc,CBH CUBATÃO,CBH do Rio Cubatão Do Sul,CBH do Rio Canoas,Dec. 3.515
+SC-07,br;sc,CBH CUBATÃO E CACHOEIRA,CBH dos Rios Cubatão e Cachoeira,CBH do Rio Camburiú,Dec. 2.444
+SC-08,br;sc,CBH DAS ANTAS,CBH do Rio Das Antas e Bacias Contíguas,CBH da Lagoa da Conceição,Dec. 1.808
+SC-09,br;sc,CBH PEIXE,CBH do Rio do Peixe,CBH do Rio Tubarão e Complexo Lagunar,Dec. 2.285
+SC-10,br;sc,CBH ITAJAI,CBH do Rio Itajaí,CBH do Rio do Peixe,Dec. 2.772
+SC-11,br;sc,CBH ITAPOCU,CBH do Rio Itapocu,CBH do Rio Tijucas,Dec. 2.918
+SC-12,br;sc,CBH JACUTINGA,CBH do Rio Jacutinga e Bacias Hidrográficas Contíguas,CBH do Rio Cubatão Norte e Cachoeira,Dec. 3.391 alterado pelo Dec. 2.211
+SC-13,br;sc,CBH TIJUCAS,CBH do Rio Tijucas,CBH do Rio Jacutinga,Dec. 652
+SC-14,br;sc,CBH TIMBÓ,CBH do Rio Timbó,CBH do Rio Canoinhas,Dec. 828
+SC-15,br;sc,CBH TUBARÃO,CBH do Rio Tubarão e Complexo Lagunar,CBH do Rio das Antas,Dec. 653
+SC-16,br;sc,CBH URUSSANGA,CGBH do Rio Urussanga,CBH do Rio Urussanga,Dec. 4.934
+SE-01,br;se,CBHRJP,CBH do Rio Japaratuba,CBH do Rio Sergipe,Dec. 20.778
+SE-02,br;se,CBHLIT,CBH do Litoral,CBH do Rio Piauí,Dec. 23.375
+SE-03,br;se,CBHPI,CBH do Rio Piauí,CBH do Rio Japaratuba,Dec. 24.650
+SE-04,br;se,CBHRSE,CBH do Rio Sergipe,,
+SP-01,br;sp,CBH DOS RIOS AGUAPEI E PEIXE,CBH dos Rios Aguapei e Peixe,CBH da Serra da Mantiqueira,Lei 7.663/91
+SP-02,br;sp,CBH DA BAIXADA SANTISTA,CBH da Baixada Santista,CBH do Sapucaí-Mirim e Grande,Lei 7.663/91
+SP-03,br;sp,CBH MÉDIO PARANAPANEMA,CBH do Médio Paranapanema,CBH do Rio Mogi-Guaçu,Lei 7.663/91
+SP-04,br;sp,CBH DO ALTO PARANAPANEMA,CBH do Alto Paranapanema,CBH dos Rios Sorocaba e Médio Tietê,Lei 7.663/91
+SP-05,br;sp,CBH DO RIO PARAÍBA DO SUL,CBH do Rio Paraíba do Sul,CBH do Litoral Norte,Lei 7.663/91
+SP-06,br;sp,CBH-PARDO,CBH do Pardo,CBH do Baixo Pardo-Grande,Lei 7.663/91
+SP-07,br;sp,CBH DO RIO SÃO JOSÉ DOS DOURADOS,CBH do Rio São José dos Dourados,CBH do Alto Paranapanema,Lei 7.663/91
+SP-08,br;sp,CBH DO BAIXO PARDO/GRANDE,CBH do Baixo Pardo/Grande,CBH dos Rios Turvo e Grande,Lei 7.663/91
+SP-09,br;sp,CBH DO PONTAL DO PARANAPANEMA,CBH do Pontal do Paranapanema,CBH do Tietê-Batalha,Lei 7.663/91
+SP-10,br;sp,CBHPG,CBH do Rio Piranga,CBH do Médio Paranapanema,Lei 7.663/91
+SP-11,br;sp,CBH-LITORAL NORTE,CBH do Litoral Norte,CBH do São José dos Dourados,Lei 7.663/91
+SP-12,br;sp,CBH DA SERRA DA MANTIQUEIRA,CBH da Serra da Mantiqueira,CBH do Baixo Tietê,Lei 7.663/91
+SP-13,br;sp,CBH DO RIO MOGI-GUAÇU,CBH do Rio Mogi-Guaçu,CBH dos Rios Aguapeí e Peixe,Lei 7.663/91
+SP-14,br;sp,CBH DO RIBEIRA DE IGUAPE E LITORAL SUL,CBH do Ribeira de Iguape e Litoral Sul,CBH do Paraíba do Sul,Lei 9.034/94
+SP-15,br;sp,CBH DO SAPUCAÍ MIRIM/GRANDE,CBH do Sapucaí Mirim/Grande,CBH do Alto Tietê,Lei 7.663/91
+SP-16,br;sp,CBH DO RIO SOROCABA E MÉDIO TIETÊ,CBH do Rio Sorocaba e Médio Tietê,CBH do Tietê/Jacareí,Lei 7.663/91
+SP-17,br;sp,CBH DO BAIXO TIETÊ,CBH do Baixo Tietê,CBH da Baixada Santista,Lei 9.034/94
+SP-18,br;sp,CBH DO ALTO TIETÊ,CBH do Alto Tietê,CBH do Ribeira de Iguape e Litoral Sul,Lei 7.663/91
+SP-19,br;sp,CBH DO TIETÊ BATALHA,CBH do Tietê Batalha,"CBH do Piracicaba, Capivari, Jundiaí",Lei 7.663/91
+SP-20,br;sp,CBH DO TIETÊ JACARÉ,CBH do Tietê Jacaré,CBH do Pontal do Paranapanema,Lei 7.663/91
+SP-21,br;sp,CBH DO RIO TURVO/GRANDE,CBH do Rio Turvo/Grande,CBH do Rio Pardo,Lei 7.663/91
+TO-01,br;to,CBH DO RIO FORMOSO,CBH DO RIO FORMOSO,CBH do Rio Manuel Alves da Natividade,Dec. 4.252
+TO-02,br;to,COMITÊ DA BACIA HIDROGRÁFICA DO LAGO DE PALMAS,COMITÊ DA BACIA HIDROGRÁFICA DO LAGO DE PALMAS,CBH do Rio Formoso do Araguaia,Dec. 4.253
+TO-03,br;to,CBH DOS RIOS LONTRA E CORDA,CBH dos Rios Lontra e Corda,CBH do Entorno do Lago de Palmas,Dec. 4.434
+TO-04,br;to,CBH DO RIO MANUEL ALVES,CBH DO RIO MANUEL ALVES,CBH dos Rios Lontra e Corda,Dec. 4.906

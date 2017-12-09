@@ -1,186 +1,186 @@
-uf,code,name,norma-criacao
-AL,AL1,CBH do Rio Coruripe,Dec. 1.381
-AL,AL2,CBH do Rio Prataji,Res. 04/2004
-AL,AL3,CBH do Rio Piauí,Res. 05/2005
-AL,AL4,CBH do Complexo Estuarino Lagunar Mundaú-Manguaba,Res. 09/2006
-AL,AL5,CBH do Rio São Miguel,Res. 08/2006
-AM,AM1,CBH do Rio Tarumã,Dec. 29.249
-BA,BA1,CBH do Leste,Dec. 9.935/06
-BA,BA10,CBH dos Rios Baianos do Entorno do Lago de Sobradinho,Dec. 11.247
-BA,BA11,"CBH dos Rios Peruípe, Itanhém e Jucuruçu",Dec. 14.243
-BA,BA12,"CBH dos Rios dos Frades, Buranhém e Santo Antônio",Dec. 14.244
-BA,BA13,CBH dos Rios Paramirim e Santo Onofre,Dec. 14.245
-BA,BA14,CBH do Recôncavo Sul,Dec. 15.730
-BA,BA2,CBH do Rio Itapicuru,Dec. 9.937/06
-BA,BA3,CBH do Recôncavo Norte,Dec. 9.936 alterado pelo Dec. 11.204/08
-BA,BA4,CBH do Rio Paraguaçu,Dec. 9.938
-BA,BA5,CBH dos Rios Verde - Jacaré,Dec. 9.939
-BA,BA6,CBH do Rio Salitre,Dec. 10.197
-BA,BA7,CBH do Rio Corrente,Dec. 11.244
-BA,BA8,CBH do Rio de Contas,Dec. 11.245
-BA,BA9,CBH do Rio Grande,Dec. 11.246
-CE,CE1,CBH do Rio Alto Jaguaribe,Dec. 26.603
-CE,CE10,CBH do Litoral,Dec. 28.233
-CE,CE11,CBH Sertões de Crateús,Dec. 31.061
-CE,CE12,CBH da Serra de Ibiapaba,Dec. 31.062
-CE,CE2,CBH do Rio Médio Jaguaribe,Dec. 25.391
-CE,CE3,CBH do Rio Baixo Jaguaribe,Dec. 25.391
-CE,CE4,CBH do Rio Banabuiú,Dec. 26.435
-CE,CE5,CBH do Rio Curu,Lei 11.996
-CE,CE6,CBH do Rio Salgado,Dec. 26.603
-CE,CE7,CBH da Região Metropolitana de Fortaleza,Dec. 26.902
-CE,CE8,CBH do Rio Aracaú,Dec. 27.647
-CE,CE9,CBH do Rio Coreaú,Dec. 28.233
-ES,ES1,CBH das Bacias Hidrográficas Costeiras do Litoral Centro-Norte,Dec. 908-R
-ES,ES10,CBH Pontões e Lagoas do Rio Doce - antigo Rio São José,Dec. 3793_R/2015 altera 2.035-R
-ES,ES11,CBH do Rio São Mateus,Dec. 2.619-R
-ES,ES12,CBH Barra Seca e Foz do Rio Doce,Dec. 3792_R
-ES,ES2,CBH do Rio Itaúnas,Dec. 909-R
-ES,ES3,CBH do Rio Benevente,Dec. 1.206-R
-ES,ES4,CBH do Rio Novo,Dec. 1.350-R
-ES,ES5,CBH do Rio Santa Maria do Doce,Dec. 883-S
-ES,ES6,CBH do Rio Itapemirim,Dec. 1.703-R
-ES,ES7,CBH do Rio Guandu,Dec. 1.901-R
-ES,ES8,CBH Jucu,Dec. 1.935-R
-ES,ES9,CBH Santa Maria da Vitória,Dec. 1.934-R
-MA,MA1,CBH do Rio Munim,Lei 9.956
-MA,MA2,CBH do Rio Mearim,Lei 9.957
-MG,MG1,CBH do Rio das Velhas,Dec. 39.692
-MG,MG10,CBH dos Rios Jaguari/Piracicaba (SP),Dec. 44.433
-MG,MG11,CBH do Rio Pará,Dec. 39.913
-MG,MG12,CBH do Rio Mosquito,Dec. 39.736
-MG,MG13,CBH Mineira do Rio Paracatu,Dec. 40.014
-MG,MG14,CBH do Rio Verde,Dec. 39.910
-MG,MG15,CBH do Entorno do Lago de Furnas,Dec. 42.596
-MG,MG16,CBH do Rio Caratinga,Dec. 40.591
-MG,MG17,CBH dos Afluentes do Alto São Francisco,Dec. 43.711
-MG,MG18,CBH dos Rios Jequitaí e Pacuí,Dec. 43.720
-MG,MG19,CBH dos Afluentes Mineiros do Baixo Paranaíba,Dec. 43.797
-MG,MG2,CBH do Rio Paraopeba,Dec. 40.398
-MG,MG20,CBH do Rio Suaçuí,Dec. 44.200
-MG,MG21,CBH das Águas do Rio Manhuaçu,Dec. 43.959
-MG,MG22,CBH do Entorno da Represa de Três Marias,Dec. 43.798
-MG,MG23,CBH do Rio Dourados,Dec. 43.958
-MG,MG24,CBH Mineiro do Rio Urucuia,Dec. 44.201
-MG,MG25,CBH dos Afluentes Mineiros dos Rios Pomba e Muriaé,Dec. 44.290
-MG,MG26,CBH dos Afluentes Mineiros dos Rios Preto e Paraibuna,Dec. 44.199
-MG,MG27,CBH dos Afluentes Mineiros dos Rios Mogi-Guaçu e Pardo,Dec. 40.930
-MG,MG28,CBH do Rio Araguari,Dec. 39.912
-MG,MG29,CBH do Alto Rio Grande,Dec. 44.432
-MG,MG3,CBH do Rio Piracicaba,Dec. 40.929
-MG,MG30,CBH Vertentes do Rio Grande,Dec. 44.9690
-MG,MG31,CBH do Médio e Baixo Jequitinhonha,Dec. 44.955
-MG,MG32,CBH dos Afluentes Mineiros do Médio São Francisco,Dec. 44.956
-MG,MG33,CBH do Rio Mucuri,Dec. 44.865
-MG,MG34,CBH dos Afluentes Mineiros do Alto Jequitinhonha,Dec. 45.183
-MG,MG35,CBH do Rio São Mateus,Dec. 45.184
-MG,MG4,CBH do Rio Santo Antônio,Dec. 42.595
-MG,MG5,CBH do Rio Piranga,Dec. 43.101
-MG,MG6,CBH do Rio Sapucaí,Dec. 39.911
-MG,MG7,CBH do Rio Araçuaí,Dec. 40.931
-MG,MG8,CBH dos Afluentes Mineiros do Baixo Rio Grande,Dec. 42.960
-MG,MG9,CBH dos Afluentes Mineiros do Médio Rio Grande,Dec. 42.594
-PB,PB1,CBH do Rio Paraíba,Dec. 27.560
-PB,PB2,CBH Litoral Sul,Dec. 27.562
-PB,PB3,CBH Litoral Norte,Dec. 27.561
-PE,PE1,CBH Metropolitano Sul,Res. 01
-PE,PE2,CBH do Rio Pajeú,Res. 03
-PE,PE3,CBH do Rio Una,Res. 05
-PE,PE4,CBH do Rio Goiana,Res. 02
-PE,PE5,CBH do Rio Ipojuca,Res. 02
-PE,PE6,CBH do Rio Capibaribe,Res. 07
-PI,PI1,CBH dos Rios Canindé e Piauí,Dec. 13.585
-PI,PI2,CBH do Rio Gurgueia,Dec. 15.562
-PR,PR1,CBH do Alto Iguaçu e Afluentes do Alto Ribeira,Dec. 5.878
-PR,PR10,CBH Baixo Iguaçu,Dec. 8.923
-PR,PR11,CBH dos Rios Piquiri e Paraná II,Dec. 8.924
-PR,PR2,CBH do Rio Tibagi,Dec. 5.361
-PR,PR3,CBH do Rio Jordão,Dec. 5.790
-PR,PR4,CBH Paraná III,Dec. 2.924
-PR,PR5,"CBH dos Rios Pirapó, Paranapanema 3 e Paranapanema 4",Dec. 2.245
-PR,PR6,CBH Norte Pioneiro,Dec. 5.427
-PR,PR7,CBH do Baixo Ivaí e Paraná I,Dec. 3.048
-PR,PR8,CBH Litorânea,Dec. 5.759
-PR,PR9,CBH do Alto Ivaí,Dec. 8.859
-RJ,RJ1,CBH do Rio Guandu,Dec. 31.178
-RJ,RJ2,CBH Lagos São João,Dec. 36.733
-RJ,RJ3,CBH dos Rios Macaé e das Ostras,Dec. 34.243
-RJ,RJ4,CBH do Rio Piabanha,Dec. 38.235
-RJ,RJ5,CBH da Baia de Guanabara,Dec. 38.260
-RJ,RJ6,CBH Rio Dois Rios,Dec. 41.472
-RJ,RJ7,CBH Médio Paraíba do Sul,Dec. 41.475
-RJ,RJ8,CBH Baixo Paraíba do Sul e Itabapoana,Dec. 41.720
-RJ,RJ9,CBH da Baía da Ilha Grande,Dec. 43.226
-RN,RN1,CBH do Rio Pitimbu,Dec. 17.789
-RN,RN2,CBH do Rio Ceará-Mirim,Dec. 21.779
-RN,RN3,CBH do Rio Apodi-Mossoró,Dec. 21.881
-RS,RS1,CBH dos Rios Turvo-Santa Rosa-Santo Cristo,Dec. 41.325
-RS,RS10,CBH do Rio Tramandaí,Dec. 39.637
-RS,RS11,CBH de Santa Maria,Dec. 35.103
-RS,RS12,CBH do Rio dos Sinos,Dec. 32.774
-RS,RS13,CBH do Lago Guaíba,Dec. 38.989
-RS,RS14,CBH do Rio Apuaê-Inhandava,Dec. 41.490
-RS,RS15,CBH do Rio Gravataí,Dec. 33.125
-RS,RS16,CBH do Rio Camaquã,Dec. 39.638
-RS,RS17,CBH de Passo Fundo,Dec. 42.961
-RS,RS18,CBH da Lagoa Mirim e Canal São Gonçalo,Dec. 44.327
-RS,RS19,CBH do Butuí-Icamaquã,Dec. 44.401
-RS,RS2,CBH do Rio Ijuí,Dec. 40.916
-RS,RS20,CBH do Piratinim,Dec. 44.270
-RS,RS21,CBH do Várzea,Dec. 43.488
-RS,RS22,CBH do Litoral Médio,Dec. 45.460
-RS,RS23,CBH do Rio Negro,Dec. 45.531
-RS,RS24,CBH do Rio Quaraí,Dec. 45.606
-RS,RS25,CBH do Rio Mampituba,Dec. 49.834
-RS,RS3,CBH dos Rios Taquari e Antas,Dec. 38.558
-RS,RS4,CBH do Rio Ibicuí,Dec. 40.226
-RS,RS5,CBH dos Rios Vacacaí e Vacacaí-Mirim,Dec. 39.639
-RS,RS6,CBH do Rio Baixo Jacuí,Dec. 40.225
-RS,RS7,CBH do Rio Alto Jacuí,Dec. 40.822
-RS,RS8,CBH do Rio Pardo,Dec. 39.116
-RS,RS9,CBH do Rio Caí,Dec. 38.903
-SC,SC1,CBH do Rio Itajaí,Dec. 2.109
-SC,SC10,CBH do Rio do Peixe,Dec. 2.772
-SC,SC11,CBH do Rio Tijucas,Dec. 2.918
-SC,SC12,CBH do Rio Cubatão Norte e Cachoeira,Dec. 3.391 alterado pelo Dec. 2.211
-SC,SC13,CBH do Rio Jacutinga,Dec. 652
-SC,SC14,CBH do Rio Canoinhas,Dec. 828
-SC,SC15,CBH do Rio das Antas,Dec. 653
-SC,SC16,CBH do Rio Urussanga,Dec. 4.934
-SC,SC17,CBH dos Rios Chapecó e Irani,Dec. 3.498
-SC,SC2,CBH do Rio Itapocu,Dec. 2.919
-SC,SC3,CBH do Rio Cubatão do Sul,Dec. 3.943
-SC,SC4,CBH do Rio Araranguá,Dec. 3.620
-SC,SC5,CBH do Rio Timbó,Dec. 4.295
-SC,SC6,CBH do Rio Canoas,Dec. 3.515
-SC,SC7,CBH do Rio Camburiú,Dec. 2.444
-SC,SC8,CBH da Lagoa da Conceição,Dec. 1.808
-SC,SC9,CBH do Rio Tubarão e Complexo Lagunar,Dec. 2.285
-SE,SE1,CBH do Rio Sergipe,Dec. 20.778
-SE,SE2,CBH do Rio Piauí,Dec. 23.375
-SE,SE3,CBH do Rio Japaratuba,Dec. 24.650
-SP,SP1,CBH da Serra da Mantiqueira,Lei 7.663/91
-SP,SP10,CBH do Médio Paranapanema,Lei 7.663/91
-SP,SP11,CBH do São José dos Dourados,Lei 7.663/91
-SP,SP12,CBH do Baixo Tietê,Lei 7.663/91
-SP,SP13,CBH dos Rios Aguapeí e Peixe,Lei 7.663/91
-SP,SP14,CBH do Paraíba do Sul,Lei 9.034/94
-SP,SP15,CBH do Alto Tietê,Lei 7.663/91
-SP,SP16,CBH do Tietê/Jacareí,Lei 7.663/91
-SP,SP17,CBH da Baixada Santista,Lei 9.034/94
-SP,SP18,CBH do Ribeira de Iguape e Litoral Sul,Lei 7.663/91
-SP,SP19,"CBH do Piracicaba, Capivari, Jundiaí",Lei 7.663/91
-SP,SP2,CBH do Sapucaí-Mirim e Grande,Lei 7.663/91
-SP,SP20,CBH do Pontal do Paranapanema,Lei 7.663/91
-SP,SP21,CBH do Rio Pardo,Lei 7.663/91
-SP,SP3,CBH do Rio Mogi-Guaçu,Lei 7.663/91
-SP,SP4,CBH dos Rios Sorocaba e Médio Tietê,Lei 7.663/91
-SP,SP5,CBH do Litoral Norte,Lei 7.663/91
-SP,SP6,CBH do Baixo Pardo-Grande,Lei 7.663/91
-SP,SP7,CBH do Alto Paranapanema,Lei 7.663/91
-SP,SP8,CBH dos Rios Turvo e Grande,Lei 7.663/91
-SP,SP9,CBH do Tietê-Batalha,Lei 7.663/91
-TO,TO1,CBH do Rio Manuel Alves da Natividade,Dec. 4.252
-TO,TO2,CBH do Rio Formoso do Araguaia,Dec. 4.253
-TO,TO3,CBH do Entorno do Lago de Palmas,Dec. 4.434
-TO,TO4,CBH dos Rios Lontra e Corda,Dec. 4.906
+uf,codigo,nome,norma-criacao
+AL,AL-1,CBH do Rio Coruripe,Dec. 1.381
+AL,AL-2,CBH do Rio Prataji,Res. 04/2004
+AL,AL-3,CBH do Rio Piauí,Res. 05/2005
+AL,AL-4,CBH do Complexo Estuarino Lagunar Mundaú-Manguaba,Res. 09/2006
+AL,AL-5,CBH do Rio São Miguel,Res. 08/2006
+AM,AM-1,CBH do Rio Tarumã,Dec. 29.249
+BA,BA-1,CBH do Leste,Dec. 9.935/06
+BA,BA-10,CBH dos Rios Baianos do Entorno do Lago de Sobradinho,Dec. 11.247
+BA,BA-11,"CBH dos Rios Peruípe, Itanhém e Jucuruçu",Dec. 14.243
+BA,BA-12,"CBH dos Rios dos Frades, Buranhém e Santo Antônio",Dec. 14.244
+BA,BA-13,CBH dos Rios Paramirim e Santo Onofre,Dec. 14.245
+BA,BA-14,CBH do Recôncavo Sul,Dec. 15.730
+BA,BA-2,CBH do Rio Itapicuru,Dec. 9.937/06
+BA,BA-3,CBH do Recôncavo Norte,Dec. 9.936 alterado pelo Dec. 11.204/08
+BA,BA-4,CBH do Rio Paraguaçu,Dec. 9.938
+BA,BA-5,CBH dos Rios Verde - Jacaré,Dec. 9.939
+BA,BA-6,CBH do Rio Salitre,Dec. 10.197
+BA,BA-7,CBH do Rio Corrente,Dec. 11.244
+BA,BA-8,CBH do Rio de Contas,Dec. 11.245
+BA,BA-9,CBH do Rio Grande,Dec. 11.246
+CE,CE-1,CBH do Rio Alto Jaguaribe,Dec. 26.603
+CE,CE-10,CBH do Litoral,Dec. 28.233
+CE,CE-11,CBH Sertões de Crateús,Dec. 31.061
+CE,CE-12,CBH da Serra de Ibiapaba,Dec. 31.062
+CE,CE-2,CBH do Rio Médio Jaguaribe,Dec. 25.391
+CE,CE-3,CBH do Rio Baixo Jaguaribe,Dec. 25.391
+CE,CE-4,CBH do Rio Banabuiú,Dec. 26.435
+CE,CE-5,CBH do Rio Curu,Lei 11.996
+CE,CE-6,CBH do Rio Salgado,Dec. 26.603
+CE,CE-7,CBH da Região Metropolitana de Fortaleza,Dec. 26.902
+CE,CE-8,CBH do Rio Aracaú,Dec. 27.647
+CE,CE-9,CBH do Rio Coreaú,Dec. 28.233
+ES,ES-1,CBH das Bacias Hidrográficas Costeiras do Litoral Centro-Norte,Dec. 908-R
+ES,ES-10,CBH Pontões e Lagoas do Rio Doce - antigo Rio São José,Dec. 3793_R/2015 altera 2.035-R
+ES,ES-11,CBH do Rio São Mateus,Dec. 2.619-R
+ES,ES-12,CBH Barra Seca e Foz do Rio Doce,Dec. 3792_R
+ES,ES-2,CBH do Rio Itaúnas,Dec. 909-R
+ES,ES-3,CBH do Rio Benevente,Dec. 1.206-R
+ES,ES-4,CBH do Rio Novo,Dec. 1.350-R
+ES,ES-5,CBH do Rio Santa Maria do Doce,Dec. 883-S
+ES,ES-6,CBH do Rio Itapemirim,Dec. 1.703-R
+ES,ES-7,CBH do Rio Guandu,Dec. 1.901-R
+ES,ES-8,CBH Jucu,Dec. 1.935-R
+ES,ES-9,CBH Santa Maria da Vitória,Dec. 1.934-R
+MA,MA-1,CBH do Rio Munim,Lei 9.956
+MA,MA-2,CBH do Rio Mearim,Lei 9.957
+MG,MG-1,CBH do Rio das Velhas,Dec. 39.692
+MG,MG-10,CBH dos Rios Jaguari/Piracicaba (SP),Dec. 44.433
+MG,MG-11,CBH do Rio Pará,Dec. 39.913
+MG,MG-12,CBH do Rio Mosquito,Dec. 39.736
+MG,MG-13,CBH Mineira do Rio Paracatu,Dec. 40.014
+MG,MG-14,CBH do Rio Verde,Dec. 39.910
+MG,MG-15,CBH do Entorno do Lago de Furnas,Dec. 42.596
+MG,MG-16,CBH do Rio Caratinga,Dec. 40.591
+MG,MG-17,CBH dos Afluentes do Alto São Francisco,Dec. 43.711
+MG,MG-18,CBH dos Rios Jequitaí e Pacuí,Dec. 43.720
+MG,MG-19,CBH dos Afluentes Mineiros do Baixo Paranaíba,Dec. 43.797
+MG,MG-2,CBH do Rio Paraopeba,Dec. 40.398
+MG,MG-20,CBH do Rio Suaçuí,Dec. 44.200
+MG,MG-21,CBH das Águas do Rio Manhuaçu,Dec. 43.959
+MG,MG-22,CBH do Entorno da Represa de Três Marias,Dec. 43.798
+MG,MG-23,CBH do Rio Dourados,Dec. 43.958
+MG,MG-24,CBH Mineiro do Rio Urucuia,Dec. 44.201
+MG,MG-25,CBH dos Afluentes Mineiros dos Rios Pomba e Muriaé,Dec. 44.290
+MG,MG-26,CBH dos Afluentes Mineiros dos Rios Preto e Paraibuna,Dec. 44.199
+MG,MG-27,CBH dos Afluentes Mineiros dos Rios Mogi-Guaçu e Pardo,Dec. 40.930
+MG,MG-28,CBH do Rio Araguari,Dec. 39.912
+MG,MG-29,CBH do Alto Rio Grande,Dec. 44.432
+MG,MG-3,CBH do Rio Piracicaba,Dec. 40.929
+MG,MG-30,CBH Vertentes do Rio Grande,Dec. 44.9690
+MG,MG-31,CBH do Médio e Baixo Jequitinhonha,Dec. 44.955
+MG,MG-32,CBH dos Afluentes Mineiros do Médio São Francisco,Dec. 44.956
+MG,MG-33,CBH do Rio Mucuri,Dec. 44.865
+MG,MG-34,CBH dos Afluentes Mineiros do Alto Jequitinhonha,Dec. 45.183
+MG,MG-35,CBH do Rio São Mateus,Dec. 45.184
+MG,MG-4,CBH do Rio Santo Antônio,Dec. 42.595
+MG,MG-5,CBH do Rio Piranga,Dec. 43.101
+MG,MG-6,CBH do Rio Sapucaí,Dec. 39.911
+MG,MG-7,CBH do Rio Araçuaí,Dec. 40.931
+MG,MG-8,CBH dos Afluentes Mineiros do Baixo Rio Grande,Dec. 42.960
+MG,MG-9,CBH dos Afluentes Mineiros do Médio Rio Grande,Dec. 42.594
+PB,PB-1,CBH do Rio Paraíba,Dec. 27.560
+PB,PB-2,CBH Litoral Sul,Dec. 27.562
+PB,PB-3,CBH Litoral Norte,Dec. 27.561
+PE,PE-1,CBH Metropolitano Sul,Res. 01
+PE,PE-2,CBH do Rio Pajeú,Res. 03
+PE,PE-3,CBH do Rio Una,Res. 05
+PE,PE-4,CBH do Rio Goiana,Res. 02
+PE,PE-5,CBH do Rio Ipojuca,Res. 02
+PE,PE-6,CBH do Rio Capibaribe,Res. 07
+PI,PI-1,CBH dos Rios Canindé e Piauí,Dec. 13.585
+PI,PI-2,CBH do Rio Gurgueia,Dec. 15.562
+PR,PR-1,CBH do Alto Iguaçu e Afluentes do Alto Ribeira,Dec. 5.878
+PR,PR-10,CBH Baixo Iguaçu,Dec. 8.923
+PR,PR-11,CBH dos Rios Piquiri e Paraná II,Dec. 8.924
+PR,PR-2,CBH do Rio Tibagi,Dec. 5.361
+PR,PR-3,CBH do Rio Jordão,Dec. 5.790
+PR,PR-4,CBH Paraná III,Dec. 2.924
+PR,PR-5,"CBH dos Rios Pirapó, Paranapanema 3 e Paranapanema 4",Dec. 2.245
+PR,PR-6,CBH Norte Pioneiro,Dec. 5.427
+PR,PR-7,CBH do Baixo Ivaí e Paraná I,Dec. 3.048
+PR,PR-8,CBH Litorânea,Dec. 5.759
+PR,PR-9,CBH do Alto Ivaí,Dec. 8.859
+RJ,RJ-1,CBH do Rio Guandu,Dec. 31.178
+RJ,RJ-2,CBH Lagos São João,Dec. 36.733
+RJ,RJ-3,CBH dos Rios Macaé e das Ostras,Dec. 34.243
+RJ,RJ-4,CBH do Rio Piabanha,Dec. 38.235
+RJ,RJ-5,CBH da Baia de Guanabara,Dec. 38.260
+RJ,RJ-6,CBH Rio Dois Rios,Dec. 41.472
+RJ,RJ-7,CBH Médio Paraíba do Sul,Dec. 41.475
+RJ,RJ-8,CBH Baixo Paraíba do Sul e Itabapoana,Dec. 41.720
+RJ,RJ-9,CBH da Baía da Ilha Grande,Dec. 43.226
+RN,RN-1,CBH do Rio Pitimbu,Dec. 17.789
+RN,RN-2,CBH do Rio Ceará-Mirim,Dec. 21.779
+RN,RN-3,CBH do Rio Apodi-Mossoró,Dec. 21.881
+RS,RS-1,CBH dos Rios Turvo-Santa Rosa-Santo Cristo,Dec. 41.325
+RS,RS-10,CBH do Rio Tramandaí,Dec. 39.637
+RS,RS-11,CBH de Santa Maria,Dec. 35.103
+RS,RS-12,CBH do Rio dos Sinos,Dec. 32.774
+RS,RS-13,CBH do Lago Guaíba,Dec. 38.989
+RS,RS-14,CBH do Rio Apuaê-Inhandava,Dec. 41.490
+RS,RS-15,CBH do Rio Gravataí,Dec. 33.125
+RS,RS-16,CBH do Rio Camaquã,Dec. 39.638
+RS,RS-17,CBH de Passo Fundo,Dec. 42.961
+RS,RS-18,CBH da Lagoa Mirim e Canal São Gonçalo,Dec. 44.327
+RS,RS-19,CBH do Butuí-Icamaquã,Dec. 44.401
+RS,RS-2,CBH do Rio Ijuí,Dec. 40.916
+RS,RS-20,CBH do Piratinim,Dec. 44.270
+RS,RS-21,CBH do Várzea,Dec. 43.488
+RS,RS-22,CBH do Litoral Médio,Dec. 45.460
+RS,RS-23,CBH do Rio Negro,Dec. 45.531
+RS,RS-24,CBH do Rio Quaraí,Dec. 45.606
+RS,RS-25,CBH do Rio Mampituba,Dec. 49.834
+RS,RS-3,CBH dos Rios Taquari e Antas,Dec. 38.558
+RS,RS-4,CBH do Rio Ibicuí,Dec. 40.226
+RS,RS-5,CBH dos Rios Vacacaí e Vacacaí-Mirim,Dec. 39.639
+RS,RS-6,CBH do Rio Baixo Jacuí,Dec. 40.225
+RS,RS-7,CBH do Rio Alto Jacuí,Dec. 40.822
+RS,RS-8,CBH do Rio Pardo,Dec. 39.116
+RS,RS-9,CBH do Rio Caí,Dec. 38.903
+SC,SC-1,CBH do Rio Itajaí,Dec. 2.109
+SC,SC-10,CBH do Rio do Peixe,Dec. 2.772
+SC,SC-11,CBH do Rio Tijucas,Dec. 2.918
+SC,SC-12,CBH do Rio Cubatão Norte e Cachoeira,Dec. 3.391 alterado pelo Dec. 2.211
+SC,SC-13,CBH do Rio Jacutinga,Dec. 652
+SC,SC-14,CBH do Rio Canoinhas,Dec. 828
+SC,SC-15,CBH do Rio das Antas,Dec. 653
+SC,SC-16,CBH do Rio Urussanga,Dec. 4.934
+SC,SC-17,CBH dos Rios Chapecó e Irani,Dec. 3.498
+SC,SC-2,CBH do Rio Itapocu,Dec. 2.919
+SC,SC-3,CBH do Rio Cubatão do Sul,Dec. 3.943
+SC,SC-4,CBH do Rio Araranguá,Dec. 3.620
+SC,SC-5,CBH do Rio Timbó,Dec. 4.295
+SC,SC-6,CBH do Rio Canoas,Dec. 3.515
+SC,SC-7,CBH do Rio Camburiú,Dec. 2.444
+SC,SC-8,CBH da Lagoa da Conceição,Dec. 1.808
+SC,SC-9,CBH do Rio Tubarão e Complexo Lagunar,Dec. 2.285
+SE,SE-1,CBH do Rio Sergipe,Dec. 20.778
+SE,SE-2,CBH do Rio Piauí,Dec. 23.375
+SE,SE-3,CBH do Rio Japaratuba,Dec. 24.650
+SP,SP-1,CBH da Serra da Mantiqueira,Lei 7.663/91
+SP,SP-10,CBH do Médio Paranapanema,Lei 7.663/91
+SP,SP-11,CBH do São José dos Dourados,Lei 7.663/91
+SP,SP-12,CBH do Baixo Tietê,Lei 7.663/91
+SP,SP-13,CBH dos Rios Aguapeí e Peixe,Lei 7.663/91
+SP,SP-14,CBH do Paraíba do Sul,Lei 9.034/94
+SP,SP-15,CBH do Alto Tietê,Lei 7.663/91
+SP,SP-16,CBH do Tietê/Jacareí,Lei 7.663/91
+SP,SP-17,CBH da Baixada Santista,Lei 9.034/94
+SP,SP-18,CBH do Ribeira de Iguape e Litoral Sul,Lei 7.663/91
+SP,SP-19,"CBH do Piracicaba, Capivari, Jundiaí",Lei 7.663/91
+SP,SP-2,CBH do Sapucaí-Mirim e Grande,Lei 7.663/91
+SP,SP-20,CBH do Pontal do Paranapanema,Lei 7.663/91
+SP,SP-21,CBH do Rio Pardo,Lei 7.663/91
+SP,SP-3,CBH do Rio Mogi-Guaçu,Lei 7.663/91
+SP,SP-4,CBH dos Rios Sorocaba e Médio Tietê,Lei 7.663/91
+SP,SP-5,CBH do Litoral Norte,Lei 7.663/91
+SP,SP-6,CBH do Baixo Pardo-Grande,Lei 7.663/91
+SP,SP-7,CBH do Alto Paranapanema,Lei 7.663/91
+SP,SP-8,CBH dos Rios Turvo e Grande,Lei 7.663/91
+SP,SP-9,CBH do Tietê-Batalha,Lei 7.663/91
+TO,TO-1,CBH do Rio Manuel Alves da Natividade,Dec. 4.252
+TO,TO-2,CBH do Rio Formoso do Araguaia,Dec. 4.253
+TO,TO-3,CBH do Entorno do Lago de Palmas,Dec. 4.434
+TO,TO-4,CBH dos Rios Lontra e Corda,Dec. 4.906
