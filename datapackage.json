@@ -24,7 +24,7 @@
   "resources": [
     {
       "name": "cbh",
-      "path": "data/cbh.csv",
+      "path": "data/originais/cbh.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "title": "...",
@@ -56,7 +56,7 @@
     },
     {
       "name": "cbh-forum",
-      "path": "data/cbh-forum.csv",
+      "path": "data/originais/cbh-forum.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "title": "Planilha do forum dos CBHs",
